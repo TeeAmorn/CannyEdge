@@ -14,7 +14,7 @@ The two types of edges found in part (4) are then linked via the EdgeLinking fun
 
 # Performance
 
-To view these figures, see ``figures.pdf``.
+To view these figures, see ``Figures.pdf``.
  
 The algorithm was then tested on a few images shown in Figure 1 and 2. The four images in Figure 1 are computed using a Gaussian kernel size of 3x3, a Gaussian standard deviation of 1, and a percentage of non-edge value of 90%.
 
